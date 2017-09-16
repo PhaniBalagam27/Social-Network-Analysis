@@ -1,2 +1,3 @@
 # Social-Network-Analysis
-SNA for Drug Trafficking Dataset
+Created a R shinyApp for Social Network Analysis of Drug Trafficking Dataset.
+
